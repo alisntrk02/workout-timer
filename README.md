@@ -12,13 +12,8 @@ Lightweight and efficient
 
 Installation
 Clone the repository:
-
-bash
-Kopyala
-Düzenle
 git clone https://github.com/alisntrk02/workout-timer.git
 Open the project in your preferred code editor.
-
 Open index.html in a browser to start using the timer.
 
 Usage
